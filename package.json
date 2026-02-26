@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "npx remotion studio src/Root.jsx",
-    "build": "npx remotion render src/Root.jsx HelloWorld out/video.mp4",
+    "build": "npx remotion render src/Root.jsx OffscriptMotion out/offscript-motion.mp4",
     "upgrade": "npx remotion upgrade"
   },
   "repository": {
